@@ -93,10 +93,10 @@
 		0954E9C92126AAED00C90E69 /* WyhPageControl */ = {
 			isa = PBXGroup;
 			children = (
-				0954E9CA2126AAED00C90E69 /* WyhPageControlDot.h */,
-				0954E9CB2126AAED00C90E69 /* WyhPageControl.m */,
-				0954E9CC2126AAED00C90E69 /* WyhPageControlDot.m */,
 				0954E9CD2126AAED00C90E69 /* WyhPageControl.h */,
+				0954E9CB2126AAED00C90E69 /* WyhPageControl.m */,
+				0954E9CA2126AAED00C90E69 /* WyhPageControlDot.h */,
+				0954E9CC2126AAED00C90E69 /* WyhPageControlDot.m */,
 			);
 			path = WyhPageControl;
 			sourceTree = SOURCE_ROOT;
