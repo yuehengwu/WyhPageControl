@@ -1,6 +1,5 @@
 # WyhPageControl
-A custom pageControl，support custom many style including custom image、reloading activity and more styles.  
-
+A customizable pageControl，support many styles including custom image、tintcolor ，etc
 
 ![](https://upload-images.jianshu.io/upload_images/4097230-5b74a2d808c2b79b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
